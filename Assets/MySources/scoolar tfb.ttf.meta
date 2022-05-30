@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: cb39a19d4958fb04a9db6ccaf0b92529
+timeCreated: 1512981907
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: scoolar tfb
+  fontNames:
+  - scoolar tfb
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

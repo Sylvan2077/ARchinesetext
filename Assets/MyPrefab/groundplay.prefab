@@ -1,0 +1,83 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 1909500209501982}
+  m_IsPrefabAsset: 1
+--- !u!1 &1909500209501982
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4243079176084846}
+  - component: {fileID: 114079682236874380}
+  - component: {fileID: 114853471348237500}
+  m_Layer: 5
+  m_Name: groundplay
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 0
+--- !u!4 &4243079176084846
+Transform:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1909500209501982}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &114079682236874380
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1909500209501982}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9867f56adc1a4d449a231240978998e1, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  audio: {fileID: 114853471348237500}
+  Button01: {fileID: 0}
+  duyin: {fileID: 8300000, guid: 6482a6969b6a2484697ea72a42e6753b, type: 3}
+  ziti: {fileID: 0}
+  pinyin: {fileID: 0}
+  shiyi: {fileID: 0}
+  textshow: {fileID: 0}
+--- !u!114 &114853471348237500
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1909500209501982}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9a86be9f6e972f741b5d46d5d9ae996c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  myAudoArray:
+  - {fileID: 8300000, guid: 6482a6969b6a2484697ea72a42e6753b, type: 3}
+  - {fileID: 8300000, guid: 1c011a4750c36c947878e0bf1e95310d, type: 3}
+  - {fileID: 8300000, guid: a72dda9bf5ec71c4ba5cf4bb789b1b68, type: 3}
+  - {fileID: 8300000, guid: e3fa8ca880d2fec428966a2b3cf4032a, type: 3}
+  - {fileID: 8300000, guid: e3fa8ca880d2fec428966a2b3cf4032a, type: 3}
+  - {fileID: 8300000, guid: e3fa8ca880d2fec428966a2b3cf4032a, type: 3}
+  - {fileID: 8300000, guid: e3fa8ca880d2fec428966a2b3cf4032a, type: 3}
+  - {fileID: 8300000, guid: e3fa8ca880d2fec428966a2b3cf4032a, type: 3}
+  - {fileID: 8300000, guid: e3fa8ca880d2fec428966a2b3cf4032a, type: 3}
+  - {fileID: 8300000, guid: e3fa8ca880d2fec428966a2b3cf4032a, type: 3}

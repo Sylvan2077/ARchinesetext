@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="de" size="1.000000 1.000000" />
+    <ImageTarget name="ma" size="1.000000 0.950769" />
+    <ImageTarget name="cattle" size="1.000000 1.000000" />
+    <ImageTarget name="rabbit" size="1.000000 1.000000" />
+    <ImageTarget name="tager" size="1.000000 1.000000" />
+    <ImageTarget name="King" size="1.000000 1.448276" />
+    <ImageTarget name="K" size="1.000000 1.422581" />
+    <ImageTarget name="xiaohui" size="1.000000 1.000000" />
+    <CylinderTarget name="sprite" sideLength="60.000000"/>
+  </Tracking>
+</QCARConfig>
